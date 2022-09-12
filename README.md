@@ -19,4 +19,11 @@ Plese refer to Story folder for more insights.
 
 The Citi Bike program drew a lot of information of users, frequency of use, most common renting locations and other information that can be suited for other cities. 
 
+Two additional visualization could be easily registered (Resources_Tableau folder):
+* Rider_per_Birth Year
+* Minutes per Ride
+
+Attached please find url for my Tableau Notebook:
+
+https://public.tableau.com/app/profile/salvador.hernandez5611
 
